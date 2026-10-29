@@ -1,4 +1,10 @@
-# Shulemart backend
+# Shulemart
+
+**Live site:** [gasasira250.github.io/Shulemart](https://gasasira250.github.io/Shulemart/)
+
+Shulemart School Supplies Program by Edupoto Rwanda Ltd.
+
+## Backend
 
 The frontend in `frontend/index.html` talks to an Express API. The API uses Prisma ORM with PostgreSQL for persistent data.
 
